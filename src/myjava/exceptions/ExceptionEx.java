@@ -13,8 +13,7 @@ public class ExceptionEx {
 		 * 
 		 * */
 		
-/*		정적 
- * 배열
+/*		정적 배열
  		for (int i = 0; i < var.length; i++) {
 				System.out.println(var[i]);			
 		}
